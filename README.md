@@ -1,12 +1,10 @@
 # Monitoring Inland Surface Water Area tool
 
+<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/e52bf46b-a202-4608-9d5d-365048476ed6' height=300/>
+
 Tool to monitor the total surface area for a select area of interest over the years. Here is the link to the google colab notebook:
 
-Display to notebook [here](https://github.com/kavyajeetbora/monitoring_water_surface_area/blob/master/notebooks/monitoring_inland_water_area_v2.ipynb)
-
-To Run the notebook: 
-
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/kavyajeetbora/monitoring_water_surface_area/blob/master/notebooks/monitoring_inland_water_area.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/kavyajeetbora/monitoring_water_surface_area/blob/master/notebooks/monitoring_inland_water_area_v2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -48,7 +46,9 @@ Once the total surface water area is calculated for each image, extract the `yea
 
 ## 6. Plot the timelapse (optional)
 
-plot the timelapse of the surface water over the years using the `geemap` python library. 
+plot the timelapse of the surface water over the years using the `geemap` python library: 
+
+<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/a0fcd9e8-f2f5-4755-838d-7e9f7f5e1e02' height=300/>
 
 ## Conclusion
 
