@@ -1,6 +1,14 @@
 # Monitoring Inland Surface Water Area tool
 
-Tool to monitor the total surface area for a select area of interest over the years. 
+Tool to monitor the total surface area for a select area of interest over the years. Here is the link to the google colab notebook:
+
+Display to notebook [here](https://github.com/kavyajeetbora/monitoring_water_surface_area/blob/master/notebooks/monitoring_inland_water_area_v2.ipynb)
+
+To Run the notebook: 
+
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/kavyajeetbora/monitoring_water_surface_area/blob/master/notebooks/monitoring_inland_water_area.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## 1. Input
 This tool takes in a geojson text as input geometry which you can create using this application:
