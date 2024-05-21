@@ -11,7 +11,7 @@ Tool to monitor the total surface area for a select area of interest over the ye
 ## 1. Input
 This tool takes in a geojson text as input geometry which you can create using this [application](https://www.keene.edu/campus/maps/tool/?coordinates=77.1200409%2C%2011.5324541%0A76.9923248%2C%2011.5062217%0A76.9916382%2C%2011.3467571%0A77.1529998%2C%2011.4261642%0A77.1200409%2C%2011.5324541):
 
-[<img src='https://i.sstatic.net/WmmNM.png' height=200/>](https://www.keene.edu/campus/maps/tool/?coordinates=77.1200409%2C%2011.5324541%0A76.9923248%2C%2011.5062217%0A76.9916382%2C%2011.3467571%0A77.1529998%2C%2011.4261642%0A77.1200409%2C%2011.5324541)
+[<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/f2b4c6aa-63b3-4f28-a5f3-9fd3ecc06270' height=200/>](https://www.keene.edu/campus/maps/tool/?coordinates=77.1200409%2C%2011.5324541%0A76.9923248%2C%2011.5062217%0A76.9916382%2C%2011.3467571%0A77.1529998%2C%2011.4261642%0A77.1200409%2C%2011.5324541)
 
 ## 2. JRC Global Surface Water Dataset
 
