@@ -12,6 +12,11 @@ Here is the link to the google colab notebook:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Medium Article
+
+[Comprehensive Tutorial Published on Medium](https://medium.com/@kavyajeetbora/monitoring-inland-surface-water-area-using-google-earth-engine-python-35f938da8077)
+
+
 ## 1. Input
 This tool takes in a geojson text as input geometry which you can create using this [application](https://www.keene.edu/campus/maps/tool/?coordinates=77.1200409%2C%2011.5324541%0A76.9923248%2C%2011.5062217%0A76.9916382%2C%2011.3467571%0A77.1529998%2C%2011.4261642%0A77.1200409%2C%2011.5324541):
 
