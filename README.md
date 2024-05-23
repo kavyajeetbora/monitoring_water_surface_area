@@ -1,8 +1,12 @@
 # Monitoring Inland Surface Water Area tool
 
-<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/e52bf46b-a202-4608-9d5d-365048476ed6' height=300/>
+<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/3adf7376-06a2-4147-a914-4d0d184a6912' height=400/>
 
-Tool to monitor the total surface area for a select area of interest over the years. Here is the link to the google colab notebook:
+Tool was developed to monitor the inland surface water area of any given area over the years. The tool creates 
+- a time-series plot for the total surface area vs year
+- a GIF image showing the animation of the changes in surface water over the years
+
+Here is the link to the google colab notebook:
 
 <a target="_blank" href="https://colab.research.google.com/github/kavyajeetbora/monitoring_water_surface_area/blob/master/notebooks/monitoring_inland_water_area_v2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -13,7 +17,9 @@ This tool takes in a geojson text as input geometry which you can create using t
 
 [<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/f2b4c6aa-63b3-4f28-a5f3-9fd3ecc06270' height=200/>](https://www.keene.edu/campus/maps/tool/?coordinates=77.1200409%2C%2011.5324541%0A76.9923248%2C%2011.5062217%0A76.9916382%2C%2011.3467571%0A77.1529998%2C%2011.4261642%0A77.1200409%2C%2011.5324541)
 
-## 2. JRC Global Surface Water Dataset
+Copy the geojson code generated on the right hand side and paste in the colab notebook and rull the notebook
+
+## 2. About the Data: JRC Global Surface Water Dataset
 
 The surface water area is downloaded from:
 
@@ -46,9 +52,9 @@ Once the total surface water area is calculated for each image, extract the `yea
 
 ## 6. Plot the timelapse (optional)
 
-plot the timelapse of the surface water over the years using the `geemap` python library: 
+Create the timelapse of the surface water over the years using the `gee` and `PIL` python library: 
 
-<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/a0fcd9e8-f2f5-4755-838d-7e9f7f5e1e02' height=300/>
+<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/3adf7376-06a2-4147-a914-4d0d184a6912' height=400/>
 
 ## Conclusion
 
