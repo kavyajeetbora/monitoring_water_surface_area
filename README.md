@@ -1,6 +1,6 @@
 # Monitoring Inland Surface Water Area tool
 
-<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/3adf7376-06a2-4147-a914-4d0d184a6912' height=400/>
+<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/fc1faeee-9b17-4ef6-8cf5-159ca71da068' height=400/>
 
 Tool was developed to monitor the inland surface water area of any given area over the years. The tool creates 
 - a time-series plot for the total surface area vs year
