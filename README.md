@@ -1,6 +1,6 @@
 # Monitoring Inland Surface Water Area tool
 
-<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/fc1faeee-9b17-4ef6-8cf5-159ca71da068' height=400/>
+<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/6188f8d4-0e07-4eac-a55e-02c3f18a7e3e' height=400/>
 
 Tool was developed to monitor the inland surface water area of any given area over the years. The tool creates 
 - a time-series plot for the total surface area vs year
@@ -59,7 +59,7 @@ Once the total surface water area is calculated for each image, extract the `yea
 
 Create the timelapse of the surface water over the years using the `gee` and `PIL` python library: 
 
-<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/3adf7376-06a2-4147-a914-4d0d184a6912' height=400/>
+<img src='https://github.com/kavyajeetbora/monitoring_water_surface_area/assets/38955297/6188f8d4-0e07-4eac-a55e-02c3f18a7e3e' height=400/>
 
 ## Conclusion
 
