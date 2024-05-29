@@ -3,7 +3,7 @@
 
 This repository contains the resources and code snippets related to two insightful articles that delve into the analysis of inland water bodies using Google Earth Engine and Python. The articles provide a comprehensive guide on how to monitor surface water area and estimate lake volume, offering a hands-on approach to aquatic remote sensing
 
-## Projects
+## Articles
 1. [Monitoring Inland Surface Water Area using Google Earth Engine & Python](https://medium.com/@kavyajeetbora/monitoring-inland-surface-water-area-using-google-earth-engine-python-35f938da8077): This article provides a step-by-step guide on how to monitor the area of inland surface water bodies. It introduces the readers to the use of Google Earth Engine and Python for satellite imagery analysis and water body monitoring.
 
 <p align="center">
